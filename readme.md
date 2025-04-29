@@ -209,7 +209,7 @@ The project repository is structured as follows:
 1. Clone the repository:
 
    ```
-   git clone 
+   git clone : https://github.com/Kumarswamy-palakuri/Music-Store-Data-Analysis-main.git
    ```
 
 2. Import the dataset into your SQL database management system.
